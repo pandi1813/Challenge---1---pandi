@@ -15,7 +15,7 @@ To improve the given code to make the webpage more accessible, the code cleaner,
   
 
 Example of the improved HTML
-![Screenshot of a few hTML changes](assets\images\html-screenshot.png)
+![Screenshot of a few hTML changes](/assets/images/html-screenshot.png)
 
 ## CSS improvements
 * Fixed class and element selectors they target the correct HTML elements.
@@ -25,5 +25,5 @@ Example of the improved HTML
   
   
 Example of the improved CSS  
-![Screenshot of a few CSS changes](assets\images\css-screenshot.PNG)
+![Screenshot of a few CSS changes](/assets/images/css-screenshot.PNG)
 
