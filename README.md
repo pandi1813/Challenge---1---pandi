@@ -1,5 +1,5 @@
 # Challenge 1 - HORISEON webpage refactoring
-## Check out the live webpage [here](https://pandi1813.github.io/Challenge---1---pandi/)
+## Check out the live webpage [here](https://pandi1813.github.io/Challenge-1---pandi/)
 ## Goal
 
 To improve the given code to make the webpage more accessible, the code cleaner, and easier to read.
